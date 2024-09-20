@@ -19,6 +19,6 @@
     <!-- </div> container mic -->
      <div class="acciones">
         <a href="/crear">No tienes una cuenta? Crea una</a>
-        <a href="/olvide">Te has olivado la contrasena ? Recuperala</a>
+        <a href="/olvide">Te has olivado la contrasena ? Recuperalaa</a>
      </div>
 </div>
